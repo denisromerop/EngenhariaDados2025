@@ -1,0 +1,20 @@
+﻿id_setor,ds_setor,id_setor1,ds_setor_ok
+1,aerea,1,AÉREA
+2,alimentação,2,ALIMENTAÇÃO
+3,Telecomunicação,3,TELECOMUNICAÇÃO
+4,concessionaria rodovias,4,CONCESSIONÁRIA RODOVIAS
+5,Consumo e Varejo,5,CONSUMO E VAREJO
+6,Educação,6,EDUCAÇÃO
+7,Eletrica,7,ELÉTRICA
+8,Energia,8,ENERGIA
+9,Exportação Carnes e derivados,9,EXPORTAÇÃO CARNES E DERIVADOS
+10,Exportação Papel e Celulose,10,EXPORTAÇÃO PAPEL E CELULOSE
+11,Financeiro,11,FINANCEIRO
+12,Imobiliario,12,IMOBILIÁRIO
+13,Locadora de Veiculos,13,LOCADORA DE VEÍCULOS
+14,Metal,14,METAL
+15,saude,15,SAÚDE
+16,Seguro,16,SEGURO
+17,Shopping,17,SHOPPING
+18,Siderurgica,18,SIDERÚRGICA
+19,Software,19,SOFTWARE

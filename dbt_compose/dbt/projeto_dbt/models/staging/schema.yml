@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  
+  - name: exemplo_incremental_ativos
+    enabled: true
+    materialized: table
+    columns:
+      - name: id_ativo
+        tests:
+          - unique
+          - not_null
+              
+  - name: exemplo_incremental_setor
+    enabled: true
+    materialized: table
+    columns:
+      - name: id_setor
+        tests:
+          - unique
+          - not_null          
+              
+  - name: exemplo_incremental_movativos
+    enabled: true
+    materialized: table
+    columns:
+      - name: ativo
+        tests:
+          - not_null                    
+      - name: datamov
+        tests:
+          - not_null                    

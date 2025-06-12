@@ -1,0 +1,120 @@
+﻿id_ativo,ds_ativo,id_setor,ds_setor,ds_descricao,id_ativo1,defensiva
+1,azul4,1,aerea,CIA AÉREA AZUL,1,0
+2,goll4,1,aerea,CIA AÉREA GOL,2,0
+3,smls3,1,aerea,CIA AÉREA SMILES,3,0
+4,abev3,2,alimentação,AMBEV,4,0
+5,crfb3,2,alimentação,CARREFOUR,5,1
+6,mdia3,2,alimentação,MOINHO DIAS BRANCO ALIMENTOS,6,1
+7,meal3,2,alimentação,INTERNATIONAL MEAL COMPANY S.A.,7,0
+8,pcar3,2,alimentação,PÃO DE AÇÚCAR,8,0
+9,oibr4,3,Telecomunicação,OI TELECOMUNICAÇÕES,9,1
+10,timp3,3,Telecomunicação,TIM TELECOMUNICAÇÕES,10,0
+11,vivt4,3,Telecomunicação,TELEFÔNICA BRASIL,11,0
+12,ccro3,4,concessionaria rodovias,GRUPO CCR,12,0
+13,ecor3,4,concessionaria rodovias,ECORODOVIAS INFRAESTRUTURA E LOGISTICA AS,13,0
+14,alpa4,5,Consumo e Varejo,ALPARGATAS,14,0
+15,amar3,5,Consumo e Varejo,MARISA,15,0
+16,arzz3,5,Consumo e Varejo,AREZZO INDUSTRIA E COMERCIO AS,16,0
+17,btow3,5,Consumo e Varejo,AMERICANAS,17,1
+18,ceab3,5,Consumo e Varejo,CEA MODAS AS,18,0
+19,cnto3,5,Consumo e Varejo,GRUPO SBF CENTAURO,19,0
+20,grnd3,5,Consumo e Varejo,GRENDENE CALÇADOS,20,0
+21,guar3,5,Consumo e Varejo,GRUPO GUARARAPES,21,0
+22,hgtx3,5,Consumo e Varejo,CIA HERING,22,0
+23,lame4,5,Consumo e Varejo,LOJAS AMERICANAS,23,0
+24,lren3,5,Consumo e Varejo,LOJAS RENNER,24,0
+25,mglu3,5,Consumo e Varejo,MAGAZINE LUIZA,25,0
+26,ntco3,5,Consumo e Varejo,NATURA & CO HOLDING AS,26,0
+27,vulc3,5,Consumo e Varejo,VULCABRAS AS,27,0
+28,vvar3,5,Consumo e Varejo,WAR3 PARTICIPAÇÕES AS,28,0
+29,anim3,6,Educação,ANIMA HOLDINGS AS,29,0
+30,cogn3,6,Educação,COGNA EDUCACAO AS,30,0
+31,seer3,6,Educação,SER EDUCACIONAL ,31,0
+32,alup11,7,Eletrica,ALUPAR INVESTIMENTO,32,1
+33,cesp6,7,Eletrica,COMPANHIA ENERGETICA DE SÃO PAULO,33,0
+34,cmig4,7,Eletrica,CIA ENERGETICA DE MENIAS GERAIS AS,34,0
+35,coce5,7,Eletrica,ENEL DISTRIBUICAO CEARÁ,35,1
+36,cpfe3,7,Eletrica,CPFL ENERGIA,36,1
+37,cple6,7,Eletrica,COPEL (CIA PARANAENSE DE ENERGIA),37,1
+38,egie3,7,Eletrica,ENGIE BRASIL,38,1
+39,elet3,7,Eletrica,ELETROBRÁS,39,0
+40,enbr3,7,Eletrica,EDP ENERGIAS DO BRASIL,40,0
+41,engi11,7,Eletrica,ENERGISA,41,1
+42,eqtl3,7,Eletrica,EQUATORIAL,42,1
+43,ligt3,7,Eletrica,LIGHT,43,0
+44,omge3,7,Eletrica,OMEGA GERAÇÃO,44,0
+45,taee11,7,Eletrica,TRANSMISSORA ALIANÇA DE ENERGIA ELETRICA AS,45,1
+46,trpl4,7,Eletrica,CIA TRANSMISSÃO ENERGIA ELETRICA PAULISTA AS,46,1
+47,brdt3,8,Energia,VIBRA ENERGIA,47,0
+48,csan3,8,Energia,COSAN AS,48,0
+49,petr4,8,Energia,PETROBRÁS,49,0
+50,prio3,8,Energia,PETRO RIO AS,50,0
+51,smto3,8,Energia,GRUPO SÃO MARTINHO,51,0
+52,ugpa3,8,Energia,ULTRAPAR,52,0
+53,beef3,9,Exportação Carnes e derivados,MINERVA FOODS,53,0
+54,brfs3,9,Exportação Carnes e derivados,BRF AS,54,0
+55,jbss3,9,Exportação Carnes e derivados,JBS FRIBOI,55,0
+56,klbn11,10,Exportação Papel e Celulose,KLABIN AS,56,0
+57,mrfg3,9,Exportação Carnes e derivados,MARFRIG,57,0
+58,suzb3,10,Exportação Papel e Celulose,SUZANO AS,58,0
+59,b3sa3,11,Financeiro,B3SA3  -BRASIL BOLSA  BALCAO,59,0
+60,bbas3,11,Financeiro,BANCO DO BRASIL,60,0
+61,bbdc4,11,Financeiro,BANCO BRADESCO AS,61,0
+62,bidi11,11,Financeiro,BANCO INTER,62,0
+63,bmgb4,11,Financeiro,BANCO BMG,63,0
+64,bpac11,11,Financeiro,BANCO BTG PACTUAL AS,64,0
+65,ciel3,11,Financeiro,CIELO,65,0
+66,itsa4,11,Financeiro,ITAUSA S.A.,66,0
+67,itub4,11,Financeiro,ITAÚ UNIBANCO AS,67,0
+68,sanb11,11,Financeiro,BANCO SANTANDER,68,0
+69,yduq3,11,Financeiro,ESTACIO PARTICIPACOES,69,0
+70,cyre3,12,Imobiliario,CYRELA BRAZIL REALTY SA,70,0
+71,dirr3,12,Imobiliario,DIRECIONAL ENGENHARIA AS,71,0
+72,dtex3,12,Imobiliario,DURATEX AS,72,0
+73,even3,12,Imobiliario,L3 SOLUCOES EM TECNOLOGIA,73,0
+74,eztc3,12,Imobiliario,EZTEC EMPREENDIMENTOS E PARTICIP AS,74,0
+75,gfsa3,12,Imobiliario,GAFISA CONSTRUTORA,75,0
+76,hbor3,12,Imobiliario,HELBOR EMPREENDIMENTOS AS,76,0
+77,jhsf3,12,Imobiliario,JHSF PARTICIPACOES,77,0
+78,logg3,12,Imobiliario,LOG COMMERCIAL PROPERTIES E PARTICIPACOES AS,78,0
+79,mdne3,12,Imobiliario,MOURA DUBEAUX,79,0
+80,mrve3,12,Imobiliario,MRV ENGENHARIA,80,0
+81,ptbl3,12,Imobiliario,PORTOBELLO SA,81,0
+82,tend3,12,Imobiliario,CONSTRUTORA TENDA,82,0
+83,tris3,12,Imobiliario,TRISUL CONSTRUTORA,83,0
+84,lcam3,13,Locadora de Veiculos,CIA LOCAÇÃO DAS AMERICAS,84,0
+85,movi3,13,Locadora de Veiculos,MOVIDA PARTICIPACOES AS,85,0
+86,rent3,13,Locadora de Veiculos,LOCALIZA RENT A CAR AS,86,0
+87,leve3,14,Metal,METAL LEVE AS,87,0
+88,lupa3,14,Metal,LUPATECH SA,88,0
+89,mypk3,14,Metal,LOCHPE-MAXION,89,0
+90,rapt4,14,Metal,RANDON AS IMPLEMENTOS E PARTICIPACOES,90,0
+91,tupy3,14,Metal,TUPY AS,91,0
+92,wege3,14,Metal,WEG,92,1
+93,aalr3,15,saude,ALLIAR DIAGNOSTICOS DE SAUDE,93,0
+94,flry3,15,saude,FLEURY SA,94,0
+95,gndi3,15,saude,GRUPO NOTREDAME INTERMEDICA,95,0
+96,hapv3,15,saude,HAPVIDA SAUDE,96,0
+97,hype3,15,saude,HYPERA PHARMA,97,1
+98,pard3,15,saude,INSTITUTO HERMES PARDINI AS,98,0
+99,qual3,15,saude,QUALICORP AS,99,0
+100,radl3,15,saude,RAIA DROGASIL,100,1
+101,sula11,15,saude,SULAMERICA,101,0
+102,irbr3,16,Seguro,IRBRASIL REON,102,0
+103,pssa3,16,Seguro,PORTO SEGURO,103,1
+104,also3,17,Shopping,ALIANSCE SONAE SHOPPING CENTERS,104,0
+105,brml3,17,Shopping,BRMALLS SHOPPING CENTERS,105,0
+106,igta3,17,Shopping,REDE IGUATEMI,106,0
+107,mult3,17,Shopping,MULTIPLAN,107,0
+108,brap4,18,Siderurgica,BRADESPAR,108,1
+109,csna3,18,Siderurgica,CIA SIDERURGICA NACIONAL,109,0
+110,fesa4,18,Siderurgica,FERBASA,110,0
+111,ggbr4,18,Siderurgica,GERDAU,111,0
+112,goau4,18,Siderurgica,METALURGICA GERDAU,112,0
+113,usim5,18,Siderurgica,USIMINAS PNA,113,0
+114,vale3,18,Siderurgica,VALE S.A,114,1
+115,lwsa3,19,Software,LOCAWEB ,115,1
+116,sqia3,19,Software,SINQIA,116,1
+117,tots3,19,Software,TOTVS S.A. SOFTWARE,117,0
+118,ibov,20,BOVESPA,BOVESPA,118,0
+119,btow,5,Consumo e Varejo,LOJAS AMERICANAS,119,0

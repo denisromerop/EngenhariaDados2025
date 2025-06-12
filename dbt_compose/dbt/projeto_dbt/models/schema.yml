@@ -1,0 +1,96 @@
+models:
+  
+  - name: ativos
+    enabled: true
+    materialized: table
+    description: "Tabela de ativos"
+    columns:
+      - name: id_ativo
+        description: "ID do ATIVO"
+        tests:
+          - unique
+          - not_null
+      - name: ds_ativo
+        description: "Descrição do Ativo"
+        tests:
+          - not_null
+      - name: id_setor
+        description: "ID DO SETOR"
+        tests:
+          - not_null
+      - name: ds_setor
+        description: "DESCRIÇÃO DO SETOR"
+        tests:
+          - not_null
+      - name: ds_descricao
+        description: "Descrição do ATIVO"
+      - name: id_ativo1
+        description: "ID ATIVO 1"
+      - name: defensiva
+        description: "INDICA SE O ATIVO É DEFENSIVO"
+      
+  - name: setor
+    enabled: true
+    materialized: table
+    description: "Tabela de Setores"
+    columns:
+      - name: id_setor
+        description: "ID do SETOR"
+        tests:
+          - unique
+          - not_null
+      - name: ds_setor
+        description: "Descrição do SETOR"
+        tests:
+          - not_null
+      - name: id_setor1
+        description: "ID DO SETOR 1"
+        tests:
+          - not_null
+      - name: ds_setor_ok
+        description: "DESCRIÇÃO DO SETOR OK"
+        tests:
+          - not_null
+
+  - name: movativos
+    enabled: true
+    materialized: table
+    description: "Tabela de Movimentação de Ativos"
+    columns:
+      - name: ativo
+        description: "ATIVO"
+        tests:
+          - unique
+          - not_null
+      - name: datamov
+        description: "DATA DE MOVIMENTO"
+        tests:
+          - not_null
+      - name: datestr
+        description: "DATA STRING"
+        tests:
+          - not_null
+      - name: data_anomesdia
+        description: "DATA ANO MES DIA"
+        tests:
+          - not_null
+      - name: valor_open
+        description: "VALOR_ABERTURA"
+        tests:
+          - not_null
+      - name: high
+        description: "VALOR DA COTAÇÃO MAIS ALTA"
+        tests:
+          - not_null
+      - name: low
+        description: "VALOR COTACAO MAIS BAIXA"
+        tests:
+          - not_null
+      - name: valor_close
+        description: "VALOR DE FECHAMENTO"
+        tests:
+          - not_null
+      - name: volume
+        description: "VOLUME NEGOCIADO"
+        tests:
+          - not_null
