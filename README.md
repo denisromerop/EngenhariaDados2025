@@ -1,5 +1,6 @@
 # Engenharia de dados - 2025-1
-
+# RA - 24.85810-2 - DENIS ROMERO PEREIRA
+# RA - 24.86064-5 - MARCELO BOTTER
 # Containers
 ## dbt_compose e dbt
 
